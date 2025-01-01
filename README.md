@@ -36,4 +36,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantnegi42&theme=dracula" alt="Streak Stats" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantnegi42&show_icons=true&theme=dracula&hide=SWIG,Assembly" alt="hemantnegi42" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantnegi42&show_icons=true&theme=dracula" alt="hemantnegi42" /></p>
