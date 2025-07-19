@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hemant Negi</h1>
+<h1 align="center">Hi 👋, I'm Hemant D/Negi</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantnegi42&label=Profile%20views&color=32CD32&&style=flat" alt="Profile views" /> </p>
